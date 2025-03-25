@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋! I'm Alaa Ahmed Sharshera, a passionate Flutter developer.
+--------------------------------------------------------------------------
 
 - 🔭 I’m currently working on Pathly
 - 🌱 I’m currently learning Google Maps integration 

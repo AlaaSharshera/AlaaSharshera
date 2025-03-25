@@ -1,4 +1,5 @@
 ## Hi there 👋! I'm Alaa Ahmed Sharshera , A passionate Flutter developer.
+![Profile Views](https://komarev.com/ghpvc/?username=AlaaSharshera&color=blue&style=flat)
 
 
 - 🔭 I’m currently working on Pathly

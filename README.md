@@ -19,7 +19,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=اسم_المستخدم&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)
 

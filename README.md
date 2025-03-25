@@ -6,6 +6,12 @@
 - 💬 Ask me about Flutter
 - 📫 How to reach me: [sharsheraalaa@gmail.com](mailto:sharsheraalaa@gmail.com)
 
+## 📬 Contact me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaasharshera/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201002492902)
+
+
 
 
 --------------------------------------------------------------------------------------------------------------
@@ -13,6 +19,11 @@
 
 --------------------------------------------------------------------------------------------------------------
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)
+
+-----------------------------------------------------------------------------------------------------------------
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlaaSharshera&theme=dracula)
+
+------------------------------------------------------------------------------------------------------------------
 
 
 

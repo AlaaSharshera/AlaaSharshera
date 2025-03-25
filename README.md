@@ -18,6 +18,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaSharshera&layout=compact&theme=radical)
 
 --------------------------------------------------------------------------------------------------------------
+## 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=اسم_المستخدم&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)
 
 -----------------------------------------------------------------------------------------------------------------

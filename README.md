@@ -6,6 +6,6 @@
 - 💬 Ask me about Flutter
 - 📫 How to reach me: [sharsheraalaa@gmail.com](mailto:sharsheraalaa@gmail.com)
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=اسم_المستخدم&show_icons=true&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)
 
 

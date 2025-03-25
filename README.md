@@ -19,9 +19,8 @@
 
 --------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical)
 
 -----------------------------------------------------------------------------------------------------------------
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlaaSharshera&theme=dracula)

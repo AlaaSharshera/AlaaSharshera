@@ -32,7 +32,8 @@
 
 --------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats  
-![AlaaSharshara's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshara&show_icons=true&theme=dark&count_private=true)![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)
+![AlaaSharshara's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshara&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)
 
 
 ----------------------------------------------------------------------------------------------------------------

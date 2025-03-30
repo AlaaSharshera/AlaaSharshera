@@ -32,7 +32,10 @@
 
 --------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats  
-![AlaaSharshara's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=dark&count_private=true)![GitHub Streak](https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=dark&count_private=true" alt="AlaaSharshara's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 
 ----------------------------------------------------------------------------------------------------------------

@@ -35,7 +35,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=dark&count_private=true" alt="AlaaSharshara's GitHub stats"/>
   
-  <img src="https://streak-stats.demolab.com/?user=AlaaSharshera&theme=dark&hide_border=false" alt="GitHub Streak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlaaSharshera&theme=dark)](https://git.io/streak-stats)
+
 </p>
 
 

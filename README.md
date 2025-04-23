@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=dark&count_private=true" alt="AlaaSharshera's GitHub stats"/></td>
-      <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlaaSharshera&theme=dark&hide_border=true" alt="GitHub Streak"/></a></td>
+      <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlaaSharshera&theme=radical&hide_border=true" alt="GitHub Streak"/></a></td>
     </tr>
   </table>
 </p>

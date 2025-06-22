@@ -35,7 +35,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AlaaSharshera&show_icons=true&theme=radical&count_private=true" alt="AlaaSharshera's GitHub stats"/></td>
+     
     </tr>
   </table>
 </p>

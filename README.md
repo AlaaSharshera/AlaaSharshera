@@ -1,7 +1,7 @@
 ## Hi there !👋 I'm Alaa Ahmed Sharshera , A passionate Flutter developer.👩‍💻📱
 
-- 🔭 I’m currently working on Pathly
-- 🌱 I’m currently learning Google Maps integration 
+- 🔭 I’m currently working on Fruitopia 
+- 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Flutter
 - 📫 How to reach me: [sharsheraalaa@gmail.com](mailto:sharsheraalaa@gmail.com)
 
